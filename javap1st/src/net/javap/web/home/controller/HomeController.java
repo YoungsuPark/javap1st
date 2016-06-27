@@ -1,4 +1,4 @@
-package net.javap.web;
+package net.javap.web.home.controller;
 
 import java.io.IOException;
 
