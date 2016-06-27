@@ -6,6 +6,26 @@
 <title>JavaP : 즐거운 자바 웹 개발</title>
 </head>
 <body>
-<h1>Hello MVC</h1>
+	<header>
+		<h1>JavaP</h1>
+		<h2>Let's start Java with JavaP</h2>
+	</header>
+	<nav>
+		<dl>
+			<dd>Java
+			<dd>JSP and Servlet
+			<dd>Spring
+		</dl>
+		<dl>
+			<dd>SignUp
+			<dd>Login
+		</dl>
+	</nav>
+	<article>
+	
+	</article>
+	<footer>
+	
+	</footer>
 </body>
 </html>
